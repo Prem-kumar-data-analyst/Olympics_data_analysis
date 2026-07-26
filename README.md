@@ -1,6 +1,6 @@
 # 🏅 Olympics Data Analysis Dashboard
 
-![Dashboard](Images/dashboard.png)
+<img width="1865" height="781" alt="Image" src="https://github.com/user-attachments/assets/98cff462-7de6-4032-865a-50469e188449" />
 
 ## 📌 Project Overview
 
@@ -94,12 +94,6 @@ Files used:
 - Interactive KPI Cards
 - Medal Trend Forecasting
 - Machine Learning Predictions
-
----
-
-# 📷 Dashboard Preview
-
-![Dashboard](Images/dashboard.png)
 
 ---
 
